@@ -2,7 +2,7 @@ package main
 
 import (
     "fmt"
-    ""
+    "github.com/Matory6/Del3"
 )
 
 func main(){
